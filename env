@@ -1,0 +1,2 @@
+SERVER_PORT=3000
+CONNECTION_STRING=postgres://edvgykutlqdgco:5de83737f2ea1cdaa76429da834603c423161c753d8f07967a7a7275091d4ccc@ec2-3-211-221-185.compute-1.amazonaws.com:5432/d7pn0c69k8fduo
